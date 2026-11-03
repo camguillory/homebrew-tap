@@ -1,6 +1,6 @@
 cask "audio-priority-bar" do
-  version "2.11.0"
-  sha256 "41c20317bb41b6cfd6f32b43258a7bfd86fc3280f4420d52087b823f4c6889e4"
+  version "2.12.0"
+  sha256 "35432099d6e7575ca34e94c85ff63dc89f29b8f915db5eb86e548bcdbde45ed0"
 
   url "https://github.com/camguillory/Audio-Priority-Bar/releases/download/v#{version}/AudioPriorityBar.zip"
   name "Audio Priority Bar"
